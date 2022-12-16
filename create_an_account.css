@@ -1,0 +1,19 @@
+#create_an_account {
+    font-family: consolas;
+    color: black;
+}
+
+#h1_create_an_account {
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+#div_content {
+    text-align: center;
+    color: white;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 5px;
+}

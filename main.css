@@ -1,0 +1,32 @@
+#main {
+    font-family: consolas;
+    color: black;
+}
+
+#h1_micomet {
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+#span_picture {
+    text-align: left;
+    color: gray;
+}
+
+#span_micomet_picture_href {
+    color: black;
+}
+
+#div_content {
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#div_micomet_channels_href {
+    text-align: center;
+    color: black;
+}
